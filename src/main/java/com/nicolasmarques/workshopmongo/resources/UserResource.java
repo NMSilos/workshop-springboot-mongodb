@@ -1,5 +1,6 @@
 package com.nicolasmarques.workshopmongo.resources;
 
+import com.nicolasmarques.workshopmongo.domain.Post;
 import com.nicolasmarques.workshopmongo.domain.User;
 import com.nicolasmarques.workshopmongo.dto.UserDTO;
 import com.nicolasmarques.workshopmongo.services.UserService;
